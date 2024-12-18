@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle error in assembly language programming: an off-by-one error that results in a buffer overflow. The `bug.asm` file contains the erroneous code, while `bugSolution.asm` provides the corrected version.  This example highlights the importance of careful array index management in low-level programming.
